@@ -3,11 +3,11 @@ import paho.mqtt.client as mqtt
 
 
 #----------------------------------------------------------------------
-broker_address= "m16.cloudmqtt.com"
-port = 18767
-user = "axnykpge"
-password = "rvWvVARZSkIN"
-topic = "Test"
+broker_address= "your server"
+port = 187xx
+user = "your username"
+password = "your password"
+topic = "your topic"
 #----------------------------------------------------------------------
 
 
