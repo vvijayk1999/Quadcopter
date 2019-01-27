@@ -5,12 +5,12 @@ import time
 
 
 #----------------------------------------------------------------------
-broker_address= "m16.cloudmqtt.com"
-port = 18767
-user = "axnykpge"
-password = "rvWvVARZSkIN"
-topic = "Test"
-instance = "Quadcopter"
+broker_address= "your server"
+port = 187xx
+user = "your username"
+password = "yourr password"
+topic = "your topic"
+instance = "your instance"
 #----------------------------------------------------------------------
 
 
