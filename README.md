@@ -9,6 +9,8 @@ This repository was created by Vijay Krishnan and his team to freely distribute 
  representaton are made with refrence to the X and Y axes with the degree of orentation.
 
 2) mpu6050.py
+
+This Poject helps in automating a drone with the help of voice commands.
   
     
 
@@ -23,4 +25,5 @@ Vishrutha K S : Facebook : /varsha.vishrutha
 Tejas K L : Github : https://github.com/tejaskl
             Instagram : tejas_kl
                 
+
 
